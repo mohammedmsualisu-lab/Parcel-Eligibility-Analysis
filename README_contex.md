@@ -1,5 +1,6 @@
 🌱 Carbon Farming Project — Context & Rationale
-📌 Overview
+
+Overview
 Carbon farming is an agricultural approach that promotes the adoption of sustainable land management practices to increase carbon sequestration in soils.
 These practices contribute to:
 •	Improved soil health and fertility 
